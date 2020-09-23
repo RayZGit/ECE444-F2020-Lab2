@@ -4,6 +4,8 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 1
 A screen shot for successfully finish the task (with timestamp)
+![alt text](https://github.com/RayZGit/ECE444-F2020-Lab2/blob/master/image/Activity1%20Capture.PNG)
+
 
 
 ## Activity 2
