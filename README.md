@@ -12,7 +12,8 @@ complete the activity 2 with a screenshot of web page\
 ## Activity 3
 *Briefly summarize what are the Flask context globals.* \
  In order to avoid view function from clustering a lot of not necessary arguments coming from the requests, \
- the context makes certain variables globally accessible, as well as prevent interfering with other threads.(shown following) \
+ the context makes certain variables globally accessible, as well as prevent interfering with other threads.
+ 
  - application_app
    - current_app
    - g
